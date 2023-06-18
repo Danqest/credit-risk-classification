@@ -7,8 +7,6 @@
 
 ## Results
 
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-
 - Machine Learning Model 1:
 
   - Accuracy: 0.9520
